@@ -1,6 +1,7 @@
 # Pico SDK Blink - Wokwi for VSCode
 
 Blink example using the Pico SDK with Wokwi configuration
+This is example is from Wokwi examples and modified to add additional features.
 
 ## Building
 
